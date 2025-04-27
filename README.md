@@ -9,6 +9,9 @@ Quizroom is a web application designed to create and take quizzes with features 
 - Dashboard for quiz tracking
 - Chatbot integration
 - Real-time student lists and quiz solutions
+## Youtube Video made for Solution Challenge 2025
+Here I Explained the Project idea and Gave a demonstration of the Project 
+[![Watch the video](https://github.com/user-attachments/assets/8e7e96e9-fb2b-4a39-9287-815abf78b861)](https://youtu.be/vCnu0zpsiTA)
 
 ## Prerequisites
 Before running the project, make sure you have the following installed:
