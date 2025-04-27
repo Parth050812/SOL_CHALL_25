@@ -20,7 +20,7 @@ Before running the project, make sure you have the following installed:
 - **Node.js** (version 14 or above)
 - **npm** (comes bundled with Node.js)
 - **Vite** (for frontend development)
-
+- **Supabase** (The cloud database that I have used)
 ## Setup Instructions
 
 ### 1. Clone the repository
