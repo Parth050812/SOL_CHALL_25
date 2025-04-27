@@ -1,4 +1,3 @@
-# SOL_CHALL_25
 
 # Quizroom
 
